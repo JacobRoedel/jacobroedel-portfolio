@@ -4,8 +4,8 @@ Personal portfolio for Jacob Roedel, a Software Engineer II at Dell Technologies
 
 ## Projects
 
+- [Essentra](https://essentra.app) — an iOS nutrition app that sets macro targets from how you train and stacks macros and micronutrients live as you build a meal.
 - [Beacon](https://beacon.jacobroedel.dev) — a read-only personal-finance agent that monitors financial data and surfaces grounded recommendations.
-- [Loadout](https://github.com/JacobRoedel/loadout) — a local, read-only development-environment readiness checker written in Rust.
 
 ## Local preview
 
